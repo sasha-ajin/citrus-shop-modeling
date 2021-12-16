@@ -31,7 +31,7 @@ Folder which contains all database models which are implemented by draw.io, and 
 
 A conceptual model is a representation of a system. It consists of concepts used to help people know, understand, or simulate a subject the model represents. The main goal is to represent the life cycle of the app. 
 
-<img width="860" alt="Screen Shot 2021-12-17 at 0 11 22" src="https://user-images.githubusercontent.com/77781886/146456398-652f8b74-8da2-42c7-973e-f20fbfd7c1b0.png">
+<img width="700" alt="Screen Shot 2021-12-17 at 0 11 22" src="https://user-images.githubusercontent.com/77781886/146456398-652f8b74-8da2-42c7-973e-f20fbfd7c1b0.png">
 
 #### datawarehouse_model.drawio
 
