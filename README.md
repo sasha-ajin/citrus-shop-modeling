@@ -50,7 +50,7 @@ Logical model's goal is to define how a system has to be implemented and is not 
 
 Physical models represent how the system will be implemented to a specific database management system, so these models are designed for business purposes.
 
-<img width="1158" alt="Screen Shot 2021-12-17 at 0 16 14" src="https://user-images.githubusercontent.com/77781886/146457022-1f457a22-7b36-4ca0-a25e-e83741b42db9.png">
+<img width="658" alt="Screen Shot 2021-12-17 at 0 16 14" src="https://user-images.githubusercontent.com/77781886/146457022-1f457a22-7b36-4ca0-a25e-e83741b42db9.png">
 
 ### transact-sql-database
 
