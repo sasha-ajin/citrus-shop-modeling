@@ -2,7 +2,7 @@
 
 # What's it?
 
-That's modeling of web-site citrus.ua (you can join this site by link in repo description) 
+It's modeling of web-site citrus.ua (you can join this site by link in repo description) 
 
 # Purpose 
 
