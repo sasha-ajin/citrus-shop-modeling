@@ -27,19 +27,19 @@ This project was created as a homework at Plovdiv University
 
 Folder which contains all database models which are implemented by draw.io, and represent database,I'm going to show you later . Here you can install it to open diagrams on your machine https://github.com/jgraph/drawio-desktop/releases/
 
-#### conceptual_model.drawio
+##### conceptual_model.drawio
 
 A conceptual model is a representation of a system. It consists of concepts used to help people know, understand, or simulate a subject the model represents. The main goal is to represent the life cycle of the app. 
 
-#### datawarehouse_model.drawio
+##### datawarehouse_model.drawio
 
 Data warehouse modeling is the process of designing the schemas of the detailed and summarized information of the data warehouse. The goal of data warehouse modeling is to develop a schema describing the reality, or at least a part of the fact, which the data warehouse is needed to support.
 
-#### logical_model.drawio 
+##### logical_model.drawio 
 
 Logical model's goal is to define how a system has to be implemented and is not specific to a database
 
-#### physical_model.drawio
+##### physical_model.drawio
 
 Physical models represent how the system will be implemented to a specific database management system, so these models are designed for business purposes.
 
