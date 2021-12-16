@@ -66,7 +66,7 @@ Here we have query for creating triggers, functions and procedures, for database
 
 #### power_bi.pbix
 
-Here we have PowerBI file.For starting it up,you should install it here https://www.microsoft.com/en-us/download/details.aspx?id=58494 
+Here we have PowerBI file.For starting it up,you should install app here https://www.microsoft.com/en-us/download/details.aspx?id=58494 
 
 The file contains 3 diagrams :
 
