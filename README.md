@@ -68,7 +68,7 @@ Here we have query for creating triggers, functions and procedures, for database
 
 Here we have PowerBI file.For starting it up,you should install app here https://www.microsoft.com/en-us/download/details.aspx?id=58494 
 
-The file contains 3 diagrams :
+The file contains 3 diagrams, which was created by objects in database:
 
 - Stacked column chart diagram (KIDS_QUANTITY by FIRST_NAME)
 - Round diagram (PRICE_WITHOUT_SALE by FIRST_NAME)
